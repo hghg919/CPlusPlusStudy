@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jung\\Documents\\GitHub\\CPlusPlusStudy\\CplusplusProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2047EE59-1CFA-4D88-8957-C5F0DB645DFC}|CplusplusProject.vcxproj|C:\\Users\\Jung\\Documents\\GitHub\\CPlusPlusStudy\\CplusplusProject\\CplusplusProject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2047EE59-1CFA-4D88-8957-C5F0DB645DFC}|CplusplusProject.vcxproj|solutionrelative:CplusplusProject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 306,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CplusplusProject.cpp",
+              "DocumentMoniker": "C:\\Users\\Jung\\Documents\\GitHub\\CPlusPlusStudy\\CplusplusProject\\CplusplusProject.cpp",
+              "RelativeDocumentMoniker": "CplusplusProject.cpp",
+              "ToolTip": "C:\\Users\\Jung\\Documents\\GitHub\\CPlusPlusStudy\\CplusplusProject\\CplusplusProject.cpp",
+              "RelativeToolTip": "CplusplusProject.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-08T07:09:40.087Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
