@@ -10,7 +10,18 @@
 int main()
 {
     //lecture1();
-    lecture2();
+    //lecture2();
+    //lecture3();
+    //lecture4();
+    //lecture5();
+    //lecture6();
+    //lecture7();
+    //lecture8();
+    //lecture9();
+    //lecture10();
+    //lecture11();
+    //lecture12();
+    lecture13();
 }
 
 // 프로그램 실행: <Ctrl+F5> 또는 [디버그] > [디버깅하지 않고 시작] 메뉴

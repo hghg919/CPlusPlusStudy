@@ -1,5 +1,18 @@
-﻿  lecture2.cpp
-C:\Users\Jung\Documents\GitHub\CPlusPlusStudy\CplusplusProject\lecture2.cpp(104,6): warning C4101: 'number_of_people' :참조되지 않은 지역 변수입니다.
-C:\Users\Jung\Documents\GitHub\CPlusPlusStudy\CplusplusProject\lecture2.cpp(105,6): warning C4101: 'NumberOfPeople' :참조되지 않은 지역 변수입니다.
+﻿  lecture13.cpp
+C:\Users\Jung\Documents\GitHub\CPlusPlusStudy\CplusplusProject\lecture13.cpp(184,23): warning C4305: '인수': 'double'에서 'T'(으)로 잘립니다.
+C:\Users\Jung\Documents\GitHub\CPlusPlusStudy\CplusplusProject\lecture13.cpp(184,23): warning C4305:         with
+C:\Users\Jung\Documents\GitHub\CPlusPlusStudy\CplusplusProject\lecture13.cpp(184,23): warning C4305:         [
+C:\Users\Jung\Documents\GitHub\CPlusPlusStudy\CplusplusProject\lecture13.cpp(184,23): warning C4305:             T=float
+C:\Users\Jung\Documents\GitHub\CPlusPlusStudy\CplusplusProject\lecture13.cpp(184,23): warning C4305:         ]
+C:\Users\Jung\Documents\GitHub\CPlusPlusStudy\CplusplusProject\lecture13.cpp(184,18): warning C4305: '인수': 'double'에서 'T'(으)로 잘립니다.
+C:\Users\Jung\Documents\GitHub\CPlusPlusStudy\CplusplusProject\lecture13.cpp(184,18): warning C4305:         with
+C:\Users\Jung\Documents\GitHub\CPlusPlusStudy\CplusplusProject\lecture13.cpp(184,18): warning C4305:         [
+C:\Users\Jung\Documents\GitHub\CPlusPlusStudy\CplusplusProject\lecture13.cpp(184,18): warning C4305:             T=float
+C:\Users\Jung\Documents\GitHub\CPlusPlusStudy\CplusplusProject\lecture13.cpp(184,18): warning C4305:         ]
+  lecture2.cpp
+C:\Users\Jung\Documents\GitHub\CPlusPlusStudy\CplusplusProject\lecture2.cpp(106,6): warning C4101: 'number_of_people' :참조되지 않은 지역 변수입니다.
+C:\Users\Jung\Documents\GitHub\CPlusPlusStudy\CplusplusProject\lecture2.cpp(107,6): warning C4101: 'NumberOfPeople' :참조되지 않은 지역 변수입니다.
+  lectures.cpp
+  코드를 생성하고 있습니다...
 C:\Users\Jung\Documents\GitHub\CPlusPlusStudy\CplusplusProject\lecture2.cpp(58,1): warning C4172: 지역 변수 또는 임시: a의 주소를 반환하고 있습니다.
   CplusplusProject.vcxproj -> C:\Users\Jung\Documents\GitHub\CPlusPlusStudy\CplusplusProject\x64\Debug\CplusplusProject.exe
